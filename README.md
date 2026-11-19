@@ -1,3 +1,5 @@
-# Software_Project_Management_Assignment
-This is the class tutorial going for the github training towards the SPM
-we will start with the creation of the issue
+# Software Project Management Assignment
+
+This is the class tutorial for GitHub training as part of the Software Project Management (SPM) course. We will start by creating and managing **GitHub Issues** to organize the project work, track tasks, assign responsibilities, and monitor the progress of the project.
+
+The first step will be the **creation of an issue**, where we will define the task, provide a clear description, assign the issue to the appropriate team member, and track its status until completion.
